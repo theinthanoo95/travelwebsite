@@ -1,0 +1,50 @@
+body{
+	background-color: red;
+}
+.logotext::first-letter{
+	border: 2px solid black;
+	padding-left: 20px;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.tablediv{
+	width: 400px;
+	height: 640px;
+	border: 2px solid black;
+	background-color: red;
+	font-size: 20px;
+	border-radius: 30px;
+	margin: auto;
+
+}
+.table{
+	margin: auto;
+	margin-top: 10px;
+	line-height: 70px;
+}
+.table .text{
+	width: 250px;
+	height: 40px;
+	border-radius: 30px;
+}
+.log{
+	width: 300px;
+	height: 40px;
+	background-color: blue;
+	border-radius: 20px;
+	color: white;
+	font-family: 'Time News Roman' ;
+	font-size: 20px;
+
+}
+.acc{
+	width: 300px;
+	height: 40px;
+	background-color: blue;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Time News Roman' ;
+	font-size: 20px;
+
+}

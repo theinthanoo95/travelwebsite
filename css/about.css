@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
+.head{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+}
+.div1{
+	margin-left: 330px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+.div1 i{
+	border: 2px solid gray;
+	padding: 5px;
+	border-radius: 3px;
+	margin-right: 5px;
+}
+.div1 .categ{
+	width:150px;
+	height: 30px;
+	border: 2px solid gray;
+	border-radius: 3px;
+	margin-left: 70px;
+
+	
+}
+.div1 .search{
+	width:380px;
+	height: 25px;
+	border-radius: 3px;
+	border: 2px solid gray;
+	
+}
+nav ul li{
+	width: 100px;
+	height: 15px;
+	list-style: none;
+	float: left;
+	text-align: center;
+	font-size: 15px;
+	padding-top: 20px;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+.about1{
+	border: 3px solid white;
+	border-style: inset;
+	padding-bottom: 40px;
+}
+.about1 h2{
+	background-image: url('../img/nb.jpg');
+	line-height: 60px;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Azeret Mono', monospace;
+	letter-spacing: 10px;
+}
+.text1{
+	width: 600px;
+	height: 230px;
+	border: 2px solid white;
+	border-style: outset;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	padding-top: 100px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.text2{
+	width: 700px;
+	height: 300px;
+	/*border: 2px solid white;
+	border-style: outset;*/
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+	text-align: justify;
+
+}
+.learn{
+	width: 150px;
+	height: 30px;
+	background-image: url('../img/nb.jpg');
+	border-radius: 30px;
+}
+h1{
+	font-family: 'Anton', sans-serif;	
+}
+a:hover{
+	border: 1px solid #09b0b3;
+	transition: 1s;
+	padding: 10px;
+	border-radius: 5px;
+	background-image: url('../img/nb.jpg');
+}
+.de1{
+	border: 2px solid gray;
+	background-image: url('../img/nb.jpg');
+	padding-bottom: 30px;
+}
+.t1{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+	text-align: center;
+	padding-bottom: 100px;
+
+}
+.d1{
+	width: 300px;
+	height: 100px;
+	border: 2px solid white;
+	background-color: white;
+	margin-left: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 40px;
+
+}
+.pe1{
+	width: 70px;
+	height: 80px;
+	margin-left: 40px;
+	padding-bottom: 15px;
+}
+.last{
+	width: 1340px;
+	height: 50px;
+	background-color: gray;
+	color: black;
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 25px;
+	border-style: inset;
+}
+.learn:hover{
+	border: 2px solid #09b0b3;
+	color: white;
+	transition: 1s;
+}

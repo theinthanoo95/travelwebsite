@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
+.head{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+}
+.div1{
+	margin-left: 330px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 50px;
+}
+.div1 i{
+	border: 2px solid gray;
+	padding: 5px;
+	border-radius: 3px;
+	margin-right: 5px;
+}
+.div1 .categ{
+	width:150px;
+	height: 30px;
+	border: 2px solid gray;
+	border-radius: 3px;
+	margin-left: 70px;
+	
+}
+.div1 .search{
+	width:380px;
+	height: 25px;
+	border-radius: 3px;
+	border: 2px solid gray;
+	
+}
+nav ul li{
+	width: 100px;
+	height: 15px;
+	list-style: none;
+	float: left;
+	text-align: center;
+	font-size: 15px;
+	/*padding-top: 20px;*/
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+.db{
+	border-style: inset;
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+.cv1{
+	background-image: url('../img/nb.jpg');
+	line-height: 60px;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Azeret Mono', monospace;
+	letter-spacing: 5px;
+}
+/*.cv1 p{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.cv1 .t1{
+	display: inline-block;
+	vertical-align: middle;
+
+}*/
+.cv2{
+	width: 400px;
+	height: 350px;
+	border-style: outset;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+}
+.cv3{
+	width: 400px;
+	height: 350px;
+	border-style: outset;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+}
+.cv4{
+	width: 400px;
+	height: 350px;
+	border-style: outset;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+}
+.db p{
+	text-align: justify;
+	padding-top: 60px;
+	padding: 10px;
+}
+.db .pe1{
+	width: 70px;
+	height: 70px;
+	margin-left: 10px;
+	border: 2px solid black;
+	border-radius: 50%;
+}
+.db .pe2{
+	display: inline-block;
+	margin-left: 5px;
+}
+.pe2 h3{
+	color: rgba(3, 218, 221, 1);
+}
+
+.last{
+	width: 1340px;
+	height: 50px;
+	background-color: gray;
+	color: black;
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 25px;
+	/*border: 2px solid gray;*/
+	border-style: inset;
+}
+
+a:hover{
+	border: 1px solid #09b0b3;
+	transition: 1s;
+	padding: 10px;
+	border-radius: 5px;
+	background-image: url('../img/nb.jpg');
+}
+i:hover{
+	color: red;
+	transition: 1s;
+}
